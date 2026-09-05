@@ -21,13 +21,13 @@ This repository contains the daily submissions for the 5-day assessment.
 
 ### Day 3: Power BI Simple Dashboard
 * **Deliverable:** Power BI Interactive Dashboard
-* **File:** [`day-3/simple-dashboard.pbix`](./day-3/)
+* **File:** day 3 folder
 
 ---
 
 ### Day 4: Power BI Advanced Dashboard
 * **Deliverable:** Power BI Interactive Dashboard
-* **File:** [`day-4/sample-dashboard.pbix`](./day-4/)
+* **File:** day 4 folder
 
 ---
 
